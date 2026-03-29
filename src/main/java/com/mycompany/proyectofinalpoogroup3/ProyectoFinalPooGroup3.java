@@ -12,5 +12,11 @@ public class ProyectoFinalPooGroup3 {
 
     public static void main(String[] args) {
         System.out.println("Hello World!");
-    }
+
+
+
+        System.out.println("toño malo");
+        
+        System.out.println("Dinho bueno");
+    }  
 }
