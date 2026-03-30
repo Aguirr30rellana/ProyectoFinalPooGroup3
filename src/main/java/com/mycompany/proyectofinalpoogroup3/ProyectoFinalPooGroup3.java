@@ -18,5 +18,10 @@ public class ProyectoFinalPooGroup3 {
         System.out.println("toño malo");
         
         System.out.println("Dinho bueno");
+        
+        
+        System.out.println("Luigi  bueno"); 
+        
+        
     }  
 }
