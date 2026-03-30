@@ -22,6 +22,6 @@ public class ProyectoFinalPooGroup3 {
         
         System.out.println("Luigi  bueno"); 
         
-        
+        System.out.println("Prueba de luis");
     }  
 }
